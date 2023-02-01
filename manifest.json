@@ -1,0 +1,34 @@
+{
+	"manifest_version": 2,
+	"name": "Dark+",
+	"description": "A theme with a darker color scheme.",
+	"author": "Rashnain",
+	"version": "1.0",
+	"theme": {
+		"colors": {
+			"toolbar": "rgb(43, 42, 50)", // background of opened tab
+			"toolbar_text": "rgb(251, 251, 254)", // title of opened tab
+			"frame": "rgb(28, 27, 34)", // background
+			"tab_background_text": "rgb(175, 175, 175)", // title of unopened tabs
+			"toolbar_field": "rgb(28, 27, 34)", // inside of the address bar
+			"toolbar_field_text": "rgb(225, 225, 225)", // URL
+			"tab_line": "rgb(43, 42, 50)", // line above opened tab
+			"popup": "rgb(66, 65, 77)",
+			"popup_text": "rgb(251, 251, 254)",
+			"button_background_active": "rgb(95, 95, 100)", // buttons e.g. new tab
+			"button_background_hover": "rgb(61, 60, 67)", // same
+			"icons": "rgb(188, 187, 190)",
+			"popup_border": "rgb(82, 82, 94)",
+			"sidebar_border": "rgb(76, 76, 81)",
+			"sidebar_highlight_text": "rgb(249, 249, 250)",
+			"sidebar_highlight": "rgb(76, 76, 81)",
+			"sidebar_text": "rgb(249, 249, 250)",
+			"sidebar": "rgb(56, 56, 61)",
+			"toolbar_field_border": "rgb(28, 27, 34)",
+			"toolbar_top_separator": "rgb(28, 27, 34)", // separator between tabs and address bar
+			"toolbar_field_border_focus": "rgb(100, 100, 100)", // address bar selection border
+			"toolbar_field_focus": "rgb(66, 65, 77)", // address bar (extended)
+			"popup_highlight": "rgb(43, 42, 51)" // selection
+		}
+	}
+}
